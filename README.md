@@ -6,7 +6,7 @@
 4. [Interacting with the joystick on SenseHAT]()
 5. [Electronic dice using SenseHAT]()
 
-#### 1. Prerequisite - Setting up the Raspberry Pi
+### 1. Prerequisite - Setting up the Raspberry Pi
 Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
 - Connect a brand new micro sd card any computer running Windows/MacOS etc  
 - Install Raspberry Pi Imager using the following [link](https://www.raspberrypi.org/software/)
@@ -35,14 +35,14 @@ This will take some time
 raspistill -o Desktop/image-small.jpg -w 640 -h 480
 ```
 
-#### 2. Displaying my name on SenseHAT
+### 2. Displaying my name on SenseHAT
 We need a SenseHAT connected to the Raspberry pi for this. This python script will display the letters V,E,E,R one by one on the LED matrix. It can be changed to display any string of characters.
 
-#### 3. Display a smiley face on the SenseHAT
+### 3. Display a smiley face on the SenseHAT
 We need a SenseHAT connected to the Raspberry pi for this. This python script will display a simley face on the LED matrix. The code can be changed to display any image on a 8x8 matrix.
 
-#### 4. Interacting with the joystick on SenseHAT
+### 4. Interacting with the joystick on SenseHAT
 We need a SenseHAT connected to the Raspberry pi for this. The LED matrix will display different colors based on which direction is pressed on the joystick.
 
-#### 5. Electronic dice using SenseHAT
+### 5. Electronic dice using SenseHAT
 We need a SenseHAT connected to the Raspberry pi for this. When pressing down on the joystick, the LED matrix will display a randomly chosen number as shown on a dice of 6 sides.
