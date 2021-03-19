@@ -1,9 +1,9 @@
 # Raspberry-Pi-Mini-Projects
 ## Table of Contents
-[1. Prerequisite - Setting up the Raspberry Pi]  
+[1. Prerequisite - Setting up the Raspberry Pi](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#1-prerequisite---setting-up-the-raspberry-pi)  
 
 #### 1. Prerequisite - Setting up the Raspberry Pi
-Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through setting up SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
+Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
 - Connect a brand new micro sd card any computer running Windows/MacOS etc  
 - Install Raspberry Pi Imager using the following [link](https://www.raspberrypi.org/software/)
 - Follow the simple on screen instructions on the Raspberry Pi Imager software, once it has completed put the micro sd card in the raspberry pi and connect the pi to power and an external display  
