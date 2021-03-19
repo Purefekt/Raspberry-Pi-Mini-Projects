@@ -1,10 +1,10 @@
 # Raspberry-Pi-Mini-Projects
 ## Table of Contents
 1. [Prerequisite - Setting up the Raspberry Pi](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#1-prerequisite---setting-up-the-raspberry-pi)  
-2. [Displaying my name on SenseHAT]()
-3. [Display a smiley face on the SenseHAT]()
-4. [Interacting with the joystick on SenseHAT]()
-5. [Electronic dice using SenseHAT]()
+2. [Displaying my name on SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#2-displaying-my-name-on-sensehat)
+3. [Display a smiley face on the SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#3-display-a-smiley-face-on-the-sensehat)
+4. [Interacting with the joystick on SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#4-interacting-with-the-joystick-on-sensehat)
+5. [Electronic dice using SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#5-electronic-dice-using-sensehat)
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
 Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
