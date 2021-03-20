@@ -42,29 +42,38 @@ This will take some time
 raspistill -o Desktop/image-small.jpg -w 640 -h 480
 ```
 
-### 2. Displaying my name on SenseHAT [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 2. Displaying my name on SenseHAT
 We need a SenseHAT connected to the Raspberry pi. This python script will display the letters V,E,E,R one by one on the LED matrix. It can be changed to display any string of characters.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 3. Display a smiley face on the SenseHAT [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 3. Display a smiley face on the SenseHAT
 We need a SenseHAT connected to the Raspberry pi. This python script will display a simley face on the LED matrix. The code can be changed to display any image on a 8x8 matrix.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 4. Interacting with the joystick on SenseHAT [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 4. Interacting with the joystick on SenseHAT
 We need a SenseHAT connected to the Raspberry pi. The LED matrix will display different colors based on which direction is pressed on the joystick.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 5. Electronic dice using SenseHAT [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 5. Electronic dice using SenseHAT
 We need a SenseHAT connected to the Raspberry pi. When pressing down on the joystick, the LED matrix will display a randomly chosen number as shown on a dice of 6 sides.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 6. Logging current temperature, pressure, humidity [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 6. Logging current temperature, pressure, humidity
 We need a senseHAT connected to the Raspberry pi. Running the script logs the current temperature, pressure and humidity in intervals of 1 second.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 7. Plotting a graph of current temp, humidity and pressure [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 7. Plotting a graph of current temp, humidity and pressure
 We need a senseHAT connected to the Raspberry pi. This script will collect the current temperature, humidity and pressure for 5 seconds with intervals of 0.5 seconds and plot a graph using the Matplotlib library.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 8. Predicting the altitude [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 8. Predicting the altitude
 We need a senseHAT connected to the Raspberry pi. This script collects the atmospheric pressure and approximates the altitude.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 9. Detects the pi's pitch, roll and yaw [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 9. Detects the pi's pitch, roll and yaw
 We need a senseHAT connected to the Raspberry pi. This script tells us the orientation of the raspberry pi by calculating its pitch, roll and yaw.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
-### 10. 8 point compass [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+### 10. 8 point compass
 We need a senseHAT connected to the Raspberry pi. After callibration this script is able to detect the magnetic direction and displays it on the LED matrix. This is an 8 point compass so the 8 directions are N, NE, E, SE, S, SW, W, NW.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
