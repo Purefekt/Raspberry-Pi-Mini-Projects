@@ -1,15 +1,16 @@
 # Raspberry-Pi-Mini-Projects
+Please open a new issue if you find any bugs so i can fix them.
 ## Table of Contents
 1. [Prerequisite - Setting up the Raspberry Pi](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#1-prerequisite---setting-up-the-raspberry-pi)  
 2. [Displaying my name on SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#2-displaying-my-name-on-sensehat)
 3. [Display a smiley face on the SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#3-display-a-smiley-face-on-the-sensehat)
 4. [Interacting with the joystick on SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#4-interacting-with-the-joystick-on-sensehat)
 5. [Electronic dice using SenseHAT](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects/blob/main/README.md#5-electronic-dice-using-sensehat)
-6. [Logging current temperature, pressure, humidity]()
-7. [Plotting a graph of current temp, humidity and pressure]()
-8. [Predicting the altitude]()
-9. [Detects the pi's pitch, roll and yaw]()
-10. [8 point compass]()
+6. [Logging current temperature, pressure, humidity](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#6-logging-current-temperature-pressure-humidity)
+7. [Plotting a graph of current temp, humidity and pressure](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#7-plotting-a-graph-of-current-temp-humidity-and-pressure)
+8. [Predicting the altitude](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#8-predicting-the-altitude)
+9. [Detects the pi's pitch, roll and yaw](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#9-detects-the-pis-pitch-roll-and-yaw)
+10. [8 point compass](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#10-8-point-compass)
 
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
