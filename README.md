@@ -11,6 +11,7 @@ Please open a new issue if you find any bugs so i can fix them.
 8. [Predicting the altitude](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#8-predicting-the-altitude)
 9. [Detects the pi's pitch, roll and yaw](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#9-detects-the-pis-pitch-roll-and-yaw)
 10. [8 point compass](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#10-8-point-compass)
+11. [Traffic light with sync button]()
 
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
@@ -77,3 +78,6 @@ We need a senseHAT connected to the Raspberry pi. This script tells us the orien
 ### 10. 8 point compass
 We need a senseHAT connected to the Raspberry pi. After callibration this script is able to detect the magnetic direction and displays it on the LED matrix. This is an 8 point compass so the 8 directions are N, NE, E, SE, S, SW, W, NW.
 [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+
+### 11. Traffic light with sync button
+We need a senseHAT connected to the Raspberry pi. This scripts immitates a traffic light and shows Green, Read and Yellow on the LED Matrix. If there are multiple such "Traffic Lights" they can be synchronised by pressing the middle button.
