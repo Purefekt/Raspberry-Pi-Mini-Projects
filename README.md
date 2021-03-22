@@ -12,6 +12,7 @@ Please open a new issue if you find any bugs so i can fix them.
 9. [Detects the pi's pitch, roll and yaw](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#9-detects-the-pis-pitch-roll-and-yaw)
 10. [8 point compass](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#10-8-point-compass)
 11. [Traffic light with sync button](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#11-traffic-light-with-sync-button)
+13. [[12]Catch the ball game]()
 
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
@@ -81,4 +82,8 @@ We need a senseHAT connected to the Raspberry pi. After callibration this script
 
 ### 11. Traffic light with sync button
 We need a senseHAT connected to the Raspberry pi. This scripts immitates a traffic light and shows Green, Read and Yellow on the LED Matrix. If there are multiple such "Traffic Lights" they can be synchronised by pressing the middle button.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+
+### 12. Catch the ball game
+We need a senseHAT connected to the Raspberry pi. This scripts lets the user play catch the ball game on the LED matrix. We have a 2x1 bar at the bottom which we can move right or left using the joystick. A ball will appear from top and the objective is to catch the ball. If the ball falls off the the player loses and the final score is displayed on the LED matrix.
 [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
