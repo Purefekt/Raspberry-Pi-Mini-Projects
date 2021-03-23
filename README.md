@@ -13,7 +13,7 @@ Please open a new issue if you find any bugs so i can fix them.
 10. [8 point compass](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#10-8-point-compass)
 11. [Traffic light with sync button](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#11-traffic-light-with-sync-button)
 12. [Catch the ball game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#12-catch-the-ball-game)
-13. [Simplified pong game]()
+13. [Simplified pong game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#12-catch-the-ball-game)
 
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
