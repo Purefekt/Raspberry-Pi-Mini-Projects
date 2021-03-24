@@ -14,6 +14,7 @@ Please open a new issue if you find any bugs so i can fix them.
 11. [Traffic light with sync button](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#11-traffic-light-with-sync-button)
 12. [Catch the ball game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#12-catch-the-ball-game)
 13. [Simplified pong game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#12-catch-the-ball-game)
+14. [Snake game]()
 
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
@@ -91,4 +92,8 @@ We need a senseHAT connected to the Raspberry pi. This scripts lets the user pla
 
 ### 13. Simplified pong game
 We need a senseHAT connected to the Raspberry pi. This script lets the user play the pong game on the LED matrix. A ball will appear, the user has to bounce it off the pad which can be moved right and left with the joystick and prevent it from falling to the ground. Once the ball strikes the ground the game is over and the final score is displayed on the LED matrix.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+
+### 14. Snake game
+We need a senseHAT connected to the Raspberry pi. This script lets the user play the Snake game on the sense hat. It starts with snake of size 1 and the user must guide it to the food(red led), everytime the snake eats food the snake grows by 1. But if the snake's head (leading led) crosses over any part of its body, the game is over and it restarts. Also as the length of the snake grows, the speed of the snake increases.
 [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
