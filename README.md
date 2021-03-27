@@ -15,7 +15,7 @@ Please open a new issue if you find any bugs so i can fix them.
 12. [Catch the ball game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#12-catch-the-ball-game)
 13. [Simplified pong game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#12-catch-the-ball-game)
 14. [Snake game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#14-snake-game)
-15. [Capture and display images using OpenCV and Pi cam]()
+15. [Capture and display images using OpenCV and Pi cam](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#15-capture-and-display-images-using-opencv-and-pi-cam)
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
 Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
