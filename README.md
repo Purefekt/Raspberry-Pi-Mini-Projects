@@ -17,7 +17,8 @@ Please open a new issue if you find any bugs so i can fix them.
 14. [Snake game](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#14-snake-game)
 15. [Capture and display images using OpenCV and Pi cam](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#15-capture-and-display-images-using-opencv-and-pi-cam)
 16. [Accessing Pi Cam video stream with OpenCV](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#16-accessing-pi-cam-video-stream-with-opencv)
-16. [Motion Detection](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#17-motion-detection)
+17. [Motion Detection](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#17-motion-detection)
+18. [Improved Motion Detection]()
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
 Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
@@ -110,4 +111,8 @@ We need the Pi Cam v2 module for this. This script lets us use OpenCV library to
 
 ### 17. Motion Detection
 We need the Pi Cam v2 module for this. This script lets us see if there is any change in the current video stream. When there is a change in the frame, a flag saying "New object" is shown on screen.
+[Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
+
+### 18. Improved Motion Detection
+We need the Pi Cam v2 module for this. This script is similar to Script 17 but it builds on it. This does not get affected by change in brightness.
 [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
