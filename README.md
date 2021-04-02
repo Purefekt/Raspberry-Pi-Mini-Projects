@@ -18,7 +18,7 @@ Please open a new issue if you find any bugs so i can fix them.
 15. [Capture and display images using OpenCV and Pi cam](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#15-capture-and-display-images-using-opencv-and-pi-cam)
 16. [Accessing Pi Cam video stream with OpenCV](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#16-accessing-pi-cam-video-stream-with-opencv)
 17. [Motion Detection](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#17-motion-detection)
-18. [Improved Motion Detection]()
+18. [Improved Motion Detection](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#18-improved-motion-detection)
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
 Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
