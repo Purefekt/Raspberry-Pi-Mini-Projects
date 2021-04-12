@@ -19,7 +19,7 @@ Please open a new issue if you find any bugs so i can fix them.
 16. [Accessing Pi Cam video stream with OpenCV](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#16-accessing-pi-cam-video-stream-with-opencv)
 17. [Motion Detection](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#17-motion-detection)
 18. [Improved Motion Detection](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#18-improved-motion-detection)
-19. [Image Classification on Raspberry Pi with Inception Model]()
+19. [Image Classification on Raspberry Pi with Inception Model](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#19-image-classification-on-raspberry-pi-with-inception-model)
 
 ### 1. Prerequisite - Setting up the Raspberry Pi
 Before jumping into the projects we must setup the Raspberry Pi correctly. These steps will guide you through installing Raspbian onto an Micro SD card, SSH, VNC, update to latest software and Pi-Cam which is used in some of these projects.
@@ -119,5 +119,5 @@ We need the Pi Cam v2 module for this. This script is similar to Script 17 but i
 [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
 
 ### 19. Image Classification on Raspberry Pi with Inception Model
-First you must download any picture that you want to test the image classification on. Next you must copy the path of the 3 files in the **Files for script19** directory and paste them in the script. Running this script will output a few basic details about the image, for example if you test it on a picture of a football the output might be "A football".
+First you must download any picture that you want to test the image classification on. Now navigate to the **Files for script19** directory and unzip the googlenet.caffemodel.zip file. Now copy **the path** of this unzipped file and the other 2 files to any dire and paste them in the script. Running this script will output a few basic details about the image, for example if you test it on a picture of a football the output might be "A football".
 [Go up](https://github.com/Purefekt/Raspberry-Pi-Mini-Projects#table-of-contents)
